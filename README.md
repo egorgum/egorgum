@@ -5,7 +5,7 @@
   <a href="https://t.me/Egyla">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/egorgumenyuk2003/">
+  <a href="www.linkedin.com/in/егор-гуменюк-928b17274">
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
